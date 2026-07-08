@@ -336,8 +336,8 @@ This project was completed as **Task 03** during my **Machine Learning Internshi
 
 Machine Learning Intern | AI & ML Enthusiast
 
-* 🌐 GitHub: https://github.com/YourUsername
-* 💼 LinkedIn: https://linkedin.com/in/YourProfile
+* 🌐 GitHub: [https://github.com/YourUsername](https://github.com/SKDANISHO7)
+* 💼 LinkedIn: [https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/shaikh-danish-70879328a)
 
 ---
 
